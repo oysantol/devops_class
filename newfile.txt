@@ -1,1 +1,2 @@
 this is a new file for project 2
+this is version 2
