@@ -2,9 +2,9 @@ hello ehsan
 this is first project of git
 your change is :
 
-1 first change.
+1 first change is ready.
 2 second edition.
 3 third edition.
 4 forth edition.
 5 fifth edition.
-
+6 sixth edition.
